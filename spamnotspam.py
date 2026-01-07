@@ -58,6 +58,6 @@ if st.button("🔍 Predict"):
 # Footer
 # -------------------------------
 st.markdown(
-    "<hr><p style='text-align:center;font-size:13px;'>Developed By Sharath_Kumar_N & Built with ❤️ using Streamlit & Scikit-learn</p>",
+    "<hr><p style='text-align:center;font-size:13px;'>Developed By Sharath_Kumar_N & Built with ❤️ using Streamlit  &  Scikit-learn</p>",
     unsafe_allow_html=True
 )
